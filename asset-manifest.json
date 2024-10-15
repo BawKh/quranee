@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85fb84d3.css",
+    "main.js": "/static/js/main.f7cbaa74.js",
+    "static/js/453.6b45e22c.chunk.js": "/static/js/453.6b45e22c.chunk.js",
+    "static/media/icon.png": "/static/media/icon.44961af90e8d5f95fe4e.png",
+    "static/media/quran-bg.jpg": "/static/media/quran-bg.cb581541d078e119030a.jpg",
+    "static/media/moshaph.png": "/static/media/moshaph.7ef363bbce22f3673ddb.png",
+    "static/media/end-ayah.jpg": "/static/media/end-ayah.671a476f66bfe900c68b.jpg",
+    "static/media/Mishary Rashid Al-Afasy.jpg": "/static/media/Mishary Rashid Al-Afasy.a48d9112bb73a26b772a.jpg",
+    "static/media/herosection.jpg": "/static/media/herosection.5988449f7cda6b451e47.jpg",
+    "static/media/Quran2.png": "/static/media/Quran2.0df938bbbadff6d5468e.png",
+    "static/media/Abu Bakr Al-Shatri.jpg": "/static/media/Abu Bakr Al-Shatri.cc4e297fbc59442ba0d5.jpg",
+    "index.html": "/index.html",
+    "main.85fb84d3.css.map": "/static/css/main.85fb84d3.css.map",
+    "main.f7cbaa74.js.map": "/static/js/main.f7cbaa74.js.map",
+    "453.6b45e22c.chunk.js.map": "/static/js/453.6b45e22c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85fb84d3.css",
+    "static/js/main.f7cbaa74.js"
+  ]
+}
