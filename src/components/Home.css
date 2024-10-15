@@ -1,0 +1,47 @@
+.heroSection {
+    background-image: url("../images/herosection.jpg");
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: -40px;
+    & .group {
+        height: 300px;
+        font-size: 15px;
+        color: #eee;
+        padding: 15px;
+        direction: rtl;
+        position: absolute;
+        right: 5%;
+        top: 30%;
+        background-color: #212529ad;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        & h1 {
+            margin-bottom: 20px;
+            font-size: 100px;
+        }
+        & p {
+            font-size: 16px;
+        }
+    }
+}
+
+
+.surahCatcher {
+    border: 1px solid rgb(0 0 0 / 18%);
+    margin-top: 20px !important;
+    padding: 15px;
+    border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -webkit-border-radius:5px ;
+    -o-border-radius:5px ;
+    & .card{
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+}
