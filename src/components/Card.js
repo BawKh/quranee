@@ -1,4 +1,3 @@
-import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import surahImg from "../images/Quran2.png";
 import Col from "react-bootstrap/Col";

@@ -6,10 +6,10 @@ import Col from "react-bootstrap/esm/Col";
 import { useEffect, useState } from "react";
 import img1 from "../images/Mishary Rashid Al-Afasy.jpg";
 import img2 from "../images/Abu Bakr Al-Shatri.jpg";
-import { Link } from "react-router-dom";
+
 function Reciters() {
   let [Reciters, setReciters] = useState([]);
-  const [RecNum, setRecNum] = useState(1);
+
   let Images = [img1, img2];
   const getReciters = () => {
     fetch("https://quranapi.pages.dev/api/reciters.json")
